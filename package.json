@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project",
+  "name": "parcel-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://damtchorzewski.github.io/parcel-project",
+  "homepage": "https://damtchorzewski.github.io/parcel-template",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project/"
+    "build": "parcel build src/*.html --public-url /parcel-template/"
   },
   "repository": {
     "type": "git",
